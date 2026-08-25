@@ -19,7 +19,7 @@ export default function Gamification() {
         </div>
 
         <div className="game-device" aria-label="Exemplo de perfil de explorador no aplicativo PassaAqui">
-          <video src={sampleVideo} controls autoPlay muted loop playsInline />
+          <video src={"https://s3.harisoncleyton.tech/passaaqui-landing/sample.mp4"} controls autoPlay muted loop playsInline />
         </div>
       </div>
     </section>
