@@ -27,7 +27,7 @@ export default function ExperienceGrid() {
 
         <div className="experience-grid">
           <article className="experience-feature">
-            <img src="../../assets/experience/experiences.jpg" alt="Exploradores conhecendo um ateliê e o comércio local do Recife" />
+            <img src="../../assets/experience/experiences.webp" alt="Exploradores conhecendo um ateliê e o comércio local do Recife" />
             <div className="experience-feature__shade" />
             <div className="experience-feature__content">
               <span>TRILHA EM DESTAQUE</span>

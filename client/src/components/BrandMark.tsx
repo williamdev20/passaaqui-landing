@@ -12,7 +12,7 @@ export default function BrandMark({ invert = false, compact = false }: BrandMark
   return (
     <div className={`brand-mark ${invert ? "brand-mark--invert" : ""}`} aria-label="PassaAqui">
       <img
-        src="../../assets/logo/logo.png"
+        src="../../assets/logo/logo.webp"
         alt="Símbolo do PassaAqui"
         className="brand-mark__symbol"
         style={{ borderRadius: 52 }}

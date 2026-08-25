@@ -127,7 +127,7 @@ button:not(:disabled), a[href] { cursor: pointer; }
   position: absolute;
   inset: 0;
   z-index: -3;
-  background: url("/hero/hero-background.jpg") center/cover no-repeat; /* <-- coloque sua imagem aqui */
+  background: url("/hero/hero-background.webp") center/cover no-repeat; /* <-- coloque sua imagem aqui */
 }
 
 .hero-image::after {
