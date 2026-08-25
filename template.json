@@ -1,0 +1,9 @@
+{
+  "id": "web-static",
+  "name": "Web App (static only)",
+  "description": "Aplicação frontend estática com React, Vite e npm.",
+  "capabilities": ["static"],
+  "package_manager": "npm",
+  "files": {}
+}
+
